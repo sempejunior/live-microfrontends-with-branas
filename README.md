@@ -20,4 +20,4 @@ This project was my first live code participation and is about micro frontend ar
 
 Live show: 
 
-[![IMAGE ALT TEXT](https://ibb.co/GQygKjY)](https://www.youtube.com/watch?v=GHlt3yFCEW0 "Micro Frontends with Single-spa, React and Vue")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/GHlt3yFCEW0/maxresdefault.jpg)](https://www.youtube.com/watch?v=GHlt3yFCEW0 "Micro Frontends with Single-spa, React and Vue")
